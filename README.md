@@ -3,7 +3,7 @@
 - Em busca de constante evolução
 #
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contact me!</h3>
 
 <div align="left">
 <a href="mailto:igorrbeiru_@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
