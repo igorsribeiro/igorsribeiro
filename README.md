@@ -28,11 +28,11 @@
 
 #
 
-<div align="center">
+<div align="left">
   <h3>GitHub Stats</h3>
   <br>
-<img src="https://github-readme-stats.vercel.app/api?username=igorsribeiro&show_icons=true&theme=codeSTACKr" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=igorsribeiro&show_icons=true&theme=codeSTACKr" border-radius="16px" alt="GitHub stats">
   <a href="https://github.com/pedrms/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsribeiro&layout=compact&theme=codeSTACKr">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsribeiro&layout=compact&theme=codeSTACKr" align="right" width="420px" border-radius="16px">
   </a>
   </div>
