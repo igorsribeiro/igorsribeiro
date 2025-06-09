@@ -1,4 +1,5 @@
 ## Olá, sou Igor 👋
+
 - Estudando Front-end
 - Em busca de constante evolução
 #
@@ -33,6 +34,6 @@
   <br>
 <img src="https://github-readme-stats.vercel.app/api?username=igorsribeiro&show_icons=true&theme=codeSTACKr" border-radius="16px" alt="GitHub stats">
   <a href="https://github.com/pedrms/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsribeiro&layout=compact&theme=codeSTACKr" align="right" width="420px" border-radius="16px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsribeiro&layout=compact&theme=codeSTACKr" align="right" width="350px" height="200px" border-radius="16px">
   </a>
   </div>
