@@ -1,7 +1,8 @@
 ## Olá, sou Igor 👋
 
-- Estudando Front-end
+- Estudando Banco de dados e Java
 - Em busca de constante evolução
+- Apreciador das técnicas de low code para automação de processos com ia
 #
 
 <h3 align="left">Contact me!</h3>
